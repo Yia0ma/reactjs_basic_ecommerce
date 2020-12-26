@@ -11,7 +11,7 @@ ReactDOM.render(
     <ContextProvider>
         <Router>
             <App/>
-        </Router> 
+        </Router>
     </ContextProvider>,
     document.getElementById("root")
 );
